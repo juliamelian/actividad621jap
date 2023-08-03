@@ -36,3 +36,7 @@ body {
     transform: translateY(-3px); 
     box-shadow: 5px 6px 7px rgba(0, 68, 124, 0.842); 
 }
+
+h1, h2, p {
+    font-family: sans-serif;
+}
