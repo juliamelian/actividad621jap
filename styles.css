@@ -1,5 +1,20 @@
 body {
-    background-color: rgb(241, 227, 204);
+    background-color: rgb(255, 255, 165);
+   
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    display: flex;
+    justify-content: center;
 }
 
 .image{
@@ -16,6 +31,16 @@ body {
     border-radius: 10px;
     height: 380px;
     cursor: pointer;
+}
+
+.imagen{
+    display: flex;
+    justify-content: center;
+}
+
+.botones {
+    display: flex;
+    justify-content: center;
 }
 
 .link-button {
